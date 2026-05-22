@@ -93,6 +93,8 @@ Estados de aceitacao (ex: q1, q3): q1, q3
 
   Automato pronto! Digite palavras para testar.
   (Pressione Enter vazio para sair)
+  (Digite 'novo' para CONFIGURAR OUTRO autômato)
+  (Digite 'sair' para FECHAR O PROGRAMA completamente)
 
   >> a
   Caminho: q0 -> q1
